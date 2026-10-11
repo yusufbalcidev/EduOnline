@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="EduOnline.Api/EduOnline.Api.csproj" />
+  <Project Path="EduOnline.Business/EduOnline.Business.csproj" />
+  <Project Path="EduOnline.DataAccess/EduOnline.DataAccess.csproj" />
+  <Project Path="EduOnline.DTO/EduOnline.DTO.csproj" />
+  <Project Path="EduOnline.Entity/EduOnline.Entity.csproj" />
+  <Project Path="EduOnline.WebUI/EduOnline.WebUI.csproj" Id="233baf70-c2ef-4f8e-ba6f-04785224344a" />
+</Solution>
